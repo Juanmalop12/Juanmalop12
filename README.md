@@ -1,4 +1,5 @@
-# 👋 ¡Hola, soy Juan Lopez!
+
+## 👋 ¡Hola, soy Juan Lopez!
 
 🎓 **Estudiante de Ingeniería de Sistemas** (7° semestre) apasionado por el desarrollo de software, la programación y el aprendizaje continuo.  
 💻 Me encanta explorar nuevas tecnologías y construir soluciones que generen impacto.
@@ -38,8 +39,26 @@
 
 ## 📫 Conéctate conmigo
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-usuario)
-- 📧 **Correo:** tu.email@ejemplo.com  
+- 💼 [LinkedIn](www.linkedin.com/in/juan-manuel-lopez-garcia-81950a37b)
+- 📧 **Correo:** juanmanuelopezlol18@gmail.com  
 
 ✨ *Siempre abierto a aprender, colaborar y compartir conocimiento.*
 
+=======
+## Hi there 👋
+
+<!--
+**Juanmalop12/Juanmalop12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> e216d52f84b3f97b90de42e2d54ab57c86ef3ead
