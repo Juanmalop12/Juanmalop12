@@ -1,8 +1,20 @@
+<h1 align="center">👋 ¡Hola, soy Juan Manuel López!</h1>
+<h3 align="center"><i>Aspirante a Software Developer Junior</i></h3>
 
-## 👋 ¡Hola, soy Juan Manuel Lopez!
+<p align="center">
+📍 Manizales, Caldas, Colombia &nbsp;|&nbsp; 📞 +57 311 477 2072 &nbsp;|&nbsp; 📧 juanmanuelopezlol18@gmail.com
+</p>
 
-🎓 **Estudiante de Ingeniería de Sistemas** (8° semestre) apasionado por el desarrollo de software, la programación y el aprendizaje continuo.  
-💻 Me encanta explorar nuevas tecnologías y construir soluciones que generen impacto.
+<p align="center">
+  <a href="https://github.com/Juanmalop12"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/juan-manuel-lopez-garcia-5305b2309"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+## 🎓 Perfil profesional
+
+Estudiante de Ingeniería de Sistemas y Telecomunicaciones (octavo semestre), aspirante a Full Stack Developer con interés equilibrado tanto en Frontend como en Backend. Experiencia práctica en Python, Java y JavaScript, con conocimientos sólidos en bases de datos relacionales (MySQL), administración de servidores Windows y Linux, y fundamentos de redes. Uso herramientas de inteligencia artificial (prompt engineering, asistentes de código) como parte del flujo de trabajo diario para acelerar el aprendizaje y la resolución de problemas. Busco una primera oportunidad como Junior Developer para aportar capacidad de aprendizaje rápido y una base técnica transversal en código, datos e infraestructura.
 
 ---
 
@@ -22,10 +34,19 @@
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+**Otras habilidades técnicas:**
+- Frontend: HTML5, CSS3, JavaScript, manipulación del DOM
+- Backend: Node.js (nivel básico), Programación Orientada a Objetos
+- Bases de datos: MySQL, SQL, diseño de bases de datos relacionales, normalización
+- Redes: Modelo OSI, TCP/IP, direccionamiento IP, configuración básica de redes
+- IA aplicada: Prompt engineering, automatización de tareas, asistentes de IA para programación
+
 ---
 
 ## 🛠️ Proyectos Destacados
 
+- **Eco Cup** — Vaso reutilizable inteligente (IoT + gamificación + sostenibilidad). Landing page en React y app full stack de hidratación (Node.js/Express, MySQL, iOS/Swift). Proyecto de Formación Empresarial III, Universidad de Manizales.
+- **Las Cerradas** — Landing page freelance con estética retro años 80 para restaurante de hamburguesas.
 
 ---
 
@@ -37,28 +58,27 @@
 
 ---
 
+## 🎓 Educación
+
+**Ingeniería de Sistemas y Telecomunicaciones**
+Universidad de Manizales — 2022 – Actualidad (Octavo semestre)
+
+**Bachillerato Académico**
+Colegio de Cristo — Febrero 2015 a Noviembre 2021
+
+---
+
+## 🌐 Idiomas
+
+- Español: nativo
+- Inglés: básico-intermedio (en progreso continuo)
+
+---
+
 ## 📫 Conéctate conmigo
 
-- 💼 [LinkedIn](www.linkedin.com/in/juan-manuel-lopez-garcia-81950a37b)
-- 📧 **Correo:** juanmanuelopezlol18@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/juan-manuel-lopez-garcia-5305b2309)
+- 📧 **Correo:** juanmanuelopezlol18@gmail.com
+- 📞 **Teléfono:** +57 311 477 2072
 
-✨ *Siempre abierto a aprender, colaborar y compartir conocimiento.*
-
-=======
-## Hi there 👋
-
-<!--
-**Juanmalop12/Juanmalop12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
->>>>>>> e216d52f84b3f97b90de42e2d54ab57c86ef3ead
+<p align="center"><i>✨ Siempre abierto a aprender, colaborar y compartir conocimiento.</i></p>
