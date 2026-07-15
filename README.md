@@ -1,7 +1,7 @@
 
-## 👋 ¡Hola, soy Juan Lopez!
+## 👋 ¡Hola, soy Juan manuel Lopez!
 
-🎓 **Estudiante de Ingeniería de Sistemas** (7° semestre) apasionado por el desarrollo de software, la programación y el aprendizaje continuo.  
+🎓 **Estudiante de Ingeniería de Sistemas** (8° semestre) apasionado por el desarrollo de software, la programación y el aprendizaje continuo.  
 💻 Me encanta explorar nuevas tecnologías y construir soluciones que generen impacto.
 
 ---
