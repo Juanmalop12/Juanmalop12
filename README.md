@@ -1,7 +1,8 @@
 <table>
 <tr>
 <td width="140">
-<img src="foto_perfil.jpg" width="120" height="120" style="border-radius:50%;object-fit:cover;"/>
+<img src="<img width="1200" height="1600" alt="fot cv" src="https://github.com/user-attachments/assets/a8646c5c-d7df-4f37-89e8-4ed329eac524" />
+" width="120" height="120" style="border-radius:50%;object-fit:cover;"/>
 </td>
 <td>
 <h1>👋 Juan Manuel López</h1>
